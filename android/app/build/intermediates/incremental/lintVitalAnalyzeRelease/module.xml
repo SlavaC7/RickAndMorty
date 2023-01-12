@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/kitapp/Documents/Projects/ReactNative/MyApp/android/app"
+    name=":app"
+    type="APP"
+    maven="MyApp:app:"
+    gradle="7.2.1"
+    buildFolder="build"
+    bootClassPath="/Users/kitapp/Library/Android/sdk/platforms/android-31/android.jar:/Users/kitapp/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
